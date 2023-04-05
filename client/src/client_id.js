@@ -1,0 +1,3 @@
+const PAYPAL_CLIENT_ID = 'ARiTNEUzufgYUACY6ztyzgWI5sorOsYnOc-IP_xveNaq5dZG-7UXQ0LQSMCiq36jyhBk-NgyycNjvrl0'
+
+export default PAYPAL_CLIENT_ID
